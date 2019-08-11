@@ -1,2 +1,1 @@
-# csslp
-Security models described in chapter one of the CSSLP training material
+# Simple F# implementations of the security models needed for CSSLP certification
