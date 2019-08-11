@@ -1,1 +1,3 @@
-# Simple F# implementations of the security models needed for CSSLP certification
+# CSSLP Certification - Security models in F#
+
+- Bell-LaPadula Confidentiality Model
